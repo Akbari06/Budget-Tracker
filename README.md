@@ -1,3 +1,4 @@
+# Budget Tracker
 • Program which tracks items bought and functions calculates money being spent whilst considering how much
 money you have.
 
